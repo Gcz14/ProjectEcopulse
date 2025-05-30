@@ -1,0 +1,111 @@
+{
+  "cabecalho": {
+    "titulo": "ECOPULSE",
+    "subtitulo": "Reduce your carbon footprint without changing your lifestyle",
+    "botao": "ENTER"
+  },
+  "secaoUm": {
+    "titulo": "What is EcoPulse?",
+    "paragrafo": "EcoPulse is a digital service that connects your daily choices with real environmental actions. Using AI and APIs integrated with apps you already use, like Google Maps, iFood, Uber, and more, EcoPulse analyzes your routines and:",
+    "sub-titulo": "How it works:",
+    "feature-textA": "Automatically calculates your carbon emissions based on your daily activities.",
+    "feature-textB": "Suggests small habit changes that make a big environmental impact.",
+    "feature-textC": "Offsets your emissions through tree planting, clean energy support, and automated recycling.",
+    "feature-textD": "Turns you into a certified Green Agent with access to exclusive perks from partner companies."
+  },
+  "secaoDois": {
+    "titulo": "How does it work?",
+    "step": [
+      {
+        "numero": "1",
+        "titulo": " Connect your favorite apps",
+        "texto": "With just a few clicks, sync your apps with EcoPulse."
+      },
+      {
+        "numero": "2",
+        "titulo": " Get your EcoScore",
+        "texto": "A fully personalized index showing the environmental impact of your choices."
+      },
+      {
+        "numero": "3",
+        "titulo": " Turn impact into action",
+        "texto": "Offset your emissions automatically or manually, and earn rewards for every sustainable action."
+      },
+      {
+        "numero": "4",
+        "titulo": " Share your journey",
+        "texto": "Easily share on social media with badges, goals, and challenges with friends."
+      }
+    ]
+  },
+  "secaoTres": {
+    "titulo": "What are users saying?",
+    "testemunhas": [
+      {
+        "depoimento": " I never imagined it would be so easy to make a difference. I just connected my apps and boom: I’m already helping reforest the Amazon!",
+        "nome": "- Camila F., São Paulo"
+      },
+      {
+        "depoimento": "I turned my impact into points, got a discount at the movies, and supported a local NGO. Now *this* is the future!",
+        "nome": "- Rodrigo M., Recife"
+      },
+      {
+        "depoimento": " I love seeing my weekly progress and competing with friends. It’s like a game… but saving the planet!",
+        "nome": "- Lívia T., Belo Horizonte"
+      }
+    ]
+  },
+  "secaoCinco": {
+    "titulo": "Frequently Asked Questions",
+    "faq": [
+      {
+        "pergunta": "How does EcoPulse calculate my impact?",
+        "resposta": "We use data from connected apps and established emission models to estimate your carbon footprint."
+      },
+      {
+        "pergunta": "Do I need to pay to use it?",
+        "resposta": "No! We offer a free plan with essential features. Paid plans provide extra benefits and greater impact."
+      },
+      {
+        "pergunta": "Do my actions really make a difference?",
+        "resposta": "Yes! All offsets and actions are audited and tied to real projects with traceable, transparent impact."
+      }
+    ]
+  },
+  "planos": {
+    "titulo": "Choose your plan",
+    "planoRaiz": {
+      "planoTitulo": "Root Plan",
+      "preco": "Free",
+      "planoInfo": {
+        "paragrafoUm": "Access to EcoScore",
+        "paragrafoDois": "Weekly sustainability tips",
+        "paragrafoTres": "Basic monthly reports",
+        "paragrafoQuatro": "Participation in monthly challenges"
+      },
+      "planoBotao": "Start for free"
+    },
+    "planoFolha": {
+      "planoTitulo": "Leaf Plan",
+      "preco": "R$ 19/month",
+      "planoInfo": {
+        "paragrafoUm": "Everything in the Root Plan",
+        "paragrafoDois": "Automatic CO₂ offsetting",
+        "paragrafoTres": "2 trees planted per month",
+        "paragrafoQuatro": "Access to green coupons and partnerships"
+      },
+      "planoBotao": "Subscribe to Leaf"
+    },
+    "planoFloresta": {
+      "planoTitulo": "Forest Plan",
+      "preco": "R$ 49/month",
+      "planoInfo": {
+        "paragrafoUm": "Everything from previous plans",
+        "paragrafoDois": "Triple environmental impact",
+        "paragrafoTres": "Project tracking and insights",
+        "paragrafoQuatro": "Mentorship with environmental experts"
+      },
+      "planoBotao": "Subscribe to Forest"
+    }
+  }
+}
