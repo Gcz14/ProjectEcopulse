@@ -11,7 +11,7 @@ function inserirTextos(data) {
   });
 }
 
-fetch('/assets/textos.json')
+fetch('/textos.json')
   .then(res => res.json())
   .then(data => {
     dadosTexto = data;
